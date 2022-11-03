@@ -2,11 +2,22 @@ Chris' Steamed Buns
 -------------------
 
 Ingredients:
+1/4 cup water
+1 1/2 cups all-purpose flour
 1/4 cup all-purpose flour
 1/2 teaspoon baking powder
+<<<<<<< HEAD
 all the love in your heart
 
+=======
+1 tablespoon active dry yeast
+1/4 teaspoon salt
+>>>>>>> 6baab5ec774d1e37590b322e58be240a271671e9
 
 Directions:
+4. Punch down dough, and spread out on a floured board.
 6. Divide dough into 2 parts, and place the piece you are not working with in a covered bowl. Divide each half into 12 parts.
+7. Shape each part into a ball with smooth surface up. Put each ball on a wax paper square. Let stand covered until double, about 30 minutes.
+8. Bring water to a boil in wok, and reduce heat to medium; the water should still be boiling.
 9. Place steam-plate on a small wire rack in the middle of the wok.
+10. Transfer as many buns on wax paper as will comfortably fit onto steam-plate leaving 1 to 2 inches between the buns. At least 2 inches space should be left between steam-plate and the wok.
